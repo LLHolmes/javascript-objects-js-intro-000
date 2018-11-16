@@ -1,1 +1,1 @@
-var playlist = { Michael Jackson: "PYT" };
+var playlist = {};
